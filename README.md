@@ -1,16 +1,27 @@
-# assignment_4
+# 🎙️ TTS & Animated Text App
 
-A new Flutter project.
+This is a simple Flutter app that combines **Text-to-Speech (TTS)** and **Animated Text** functionality. Users can type text into a field, and on pressing the mic button, the app will read the text aloud using the `flutter_tts` package.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Typewriter-style animated header using `animated_text_kit`
+- Text-to-speech playback of user input
+- Clean and colorful UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+
+1. Clone this repo
+2. Run `flutter pub get`
+3. Use `flutter run` to launch the app on an emulator or device
+
+---
+
+## 📦 Dependencies
+
+```yaml
+flutter_tts: ^3.6.3
+animated_text_kit: ^4.2.2
