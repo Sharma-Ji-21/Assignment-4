@@ -1,3 +1,4 @@
+<img width="394" alt="Screenshot 2025-05-30 at 8 24 12 PM" src="https://github.com/user-attachments/assets/edeae4f2-daf5-4b3c-8b9e-1ff6cb52d68f" />
 # 🎙️ TTS & Animated Text App
 
 This is a simple Flutter app that combines **Text-to-Speech (TTS)** and **Animated Text** functionality. Users can type text into a field, and on pressing the mic button, the app will read the text aloud using the `flutter_tts` package.
